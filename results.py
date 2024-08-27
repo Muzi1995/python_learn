@@ -27,6 +27,3 @@ df = pd.DataFrame(data)
 # Display the DataFrame
 print(df)
 
-# Optionally, if you want to save it to an Excel or CSV file:
-# df.to_csv('module_grades.csv', index=False)
-# df.to_excel('module_grades.xlsx', index=False)
