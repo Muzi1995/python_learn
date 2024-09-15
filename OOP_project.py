@@ -1,4 +1,4 @@
-from bank_accounts import *
+from OOP_bank_accounts import *
 
 Muzammil = BankAccount(2000, 'Muzammil')
 Dave = BankAccount(1000, 'Dave')
